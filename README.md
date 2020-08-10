@@ -13,3 +13,5 @@ API REST using NodeJS, Nodemon and Express
 # RUN : npm start
 
 To manage the data I worked with MySQL Worckbench
+
+This project use the [appDirectory](https://github.com/knatb/appDirectory) interface
