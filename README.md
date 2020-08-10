@@ -10,6 +10,10 @@ API REST using NodeJS, Nodemon and Express
 # Install node modules
 - npm install 
 
+# Install cors
+- npm install cors --save
+
+
 # RUN : npm start
 
 To manage the data I worked with MySQL Worckbench
